@@ -4,6 +4,6 @@
 ##### External Libraries[^2]
 
 
-[^1] Lisa Dion. The starter code for cube.cpp, cube.h, graphics.cpp, and graphics.h
+[^1]: Lisa Dion. The starter code for cube.cpp, cube.h, graphics.cpp, and graphics.h
 
-[^2] OpenGL 
+[^2]: OpenGL. 
