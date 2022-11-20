@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.8)
-project(3D-Graphics)
+project(3D-Rotation-Absolute-Axis)
 
 if (WIN32)
     set(FREEGLUT_INCLUDE_DIRS "C:/Program\ Files/Common\ Files/freeglut/include")
